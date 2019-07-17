@@ -1,0 +1,71 @@
+For multiple choice, you have roughly 1.5 minutes per answer.  You
+have to quickly figure out which answers are clearly wrong and then
+try and rank the remaining.  For short answer, you have roughly 3
+minutes per short answer question.  The answers could be up to double
+in length to what is below but wouldn't expect much more.  Please
+carefully consider your answer before writing it down.  Perhaps write
+wee bullets outside the box or on the blank paper at the end to try
+and get things straight before committing to an answer.
+
+
+Q1.1 is entry D
+      unless you had some problems understanding the meaning of the
+      word "characteristics", this should have been obvious
+Q1.2 is entry C
+      B isn't true, if the data are stored in different DBs, then
+      its hard to run single processing jobs on them because the
+      DBs will have different record IDS, standards and naming conventions
+      A is true initially, but probably not in the long run
+      D is definitely not recommended
+Q1.3 is entry B
+Q1.4 is entry A
+      they are very different systems, but A is common; C is not in
+      RDBMSs, D is not an issue with in-memory DBs, commercial RDBMSs
+      are not cheap
+Q1.5 is entry A
+      "big" is relative to the task too, which discounts C and D
+Q1.6 is entry A
+      C is wrong; B is an argument some make but not generally believed;
+      A is argument behind Zimmerman's law
+Q1.7 is entry A
+      B and D is false; C is partly true no doubt;
+Q1.8 is entry C
+Q1.9 is entry D
+      all answers a partially true, so which is best?
+      B and C should be considered silly; A usually applies to XML, JSOn etc.
+Q1.10 is entry B
+      A and C equally apply to RDBMSs; D is a trick answer to try and fool you
+Q1.11 is entry B
+      C and D are instances of p-hacking;  both A and B are good, so which is
+      best?  in fact they are very similar ... not a good question,
+      but B sounds safer	
+Q1.12 is entry B
+      one can "check" significance tests using visualisation, but not
+      perform them
+Q1.13 is entry D
+      A-C were all discussed and mentioned as examples, so that leaves
+      D
+Q1.14 is entry A
+      C and D partially true;  B clearly wrong;  A seems best;  the word
+      "primarily" says A is the answer
+Q1.15 is entry B
+      A and C very important; D is handy; B is probably important in
+      medicine or other sciences more actively using hypothesis testing,
+      but the issue is "standard" significant levels change ... some use 0.025;
+      so B is least useful though not entirely useless
+
+
+Q2.1 linked open data?
+     Linked Open Data is publicly available data that is ``semantically" connected to other data  through established relationships. It uses semantic web formats in RDF and XML to store the data.
+
+Q2.2 metadata?
+     Meta data describes the format and characteristics and perhaps the source of the data. Without this contextual information, the data itself cannot be interpreted for analysis, nor can the quality of the data be properly considered or anomalous results explained.
+
+Q2.3 SAS, Datawrangler, Python?
+     SAS general purpose, strange syntax, commercial.
+     DataWrangler -- specialised tool, GUI interface, no coding.
+     Python -- general purpose, open-source, libraries for tasks
+
+Q2.4 PMML?
+     This is an XML standard for describing a predictive model, and can be used to pass model between different systems which often have their own internal and proprietary formats otherwise.
+
